@@ -16,12 +16,18 @@ Automatically works for any theme that uses `the_archive_description()` (added i
 
 Also comes with a specific template tag—`ptad_the_post_type_description()` and `ptad_get_post_type_description()`—for other themes.
 
+[Also on GitHub.](https://github.com/mrwweb/post-type-archive-descriptions)
+
 = Other Plugins by MRWweb =
 
 * [Feature a Page Widget](http://wordpress.org/plugins/feature-a-page-widget/) - Feature a single page in any sidebar.
 * [MRW Web Design Simple TinyMCE](https://wordpress.org/plugins/mrw-web-design-simple-tinymce/) - Get rid of bad and obscure TinyMCE buttons. Move the rest to a single top row.
 * [Post Status Menu Items](http://wordpress.org/plugins/post-status-menu-items/) - Adds post status links–e.g. "Draft" (7)–to post type admin menus.
 * [Advanced Custom Fields Repeater & Flexible Content Fields Collapser](http://wordpress.org/plugins/advanced-custom-field-repeater-collapser/) - Easier sorting for large repeated fields in the Advanced Custom Fields plugin.
+
+= Plugin History =
+
+This is a fork of [vanpop](https://profiles.wordpress.org/vanpop/)'s [CPT Descriptions plugin](https://wordpress.org/plugins/cpt-descriptions/). However, the only way to "update" from one version to the other is manually copying and pasting existing descriptions and replacing functions in the template files.
 
 == Installation ==
 
